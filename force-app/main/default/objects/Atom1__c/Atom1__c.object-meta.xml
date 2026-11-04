@@ -156,7 +156,7 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Atom1</label>
+    <label>Atom DryRun Label</label>
     <nameField>
         <label>Atom1 Name</label>
         <type>Text</type>
